@@ -1,0 +1,53 @@
+[INFO][main][2017-09-04 17:04:13:840][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:04:13:842][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:04:14:037][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:04:14:345][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:06:23:305][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:06:23:307][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:06:23:453][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:06:23:776][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:06:45:920][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:06:45:923][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:06:46:068][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:06:46:284][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:09:17:955][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:09:17:957][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[ERROR][main][2017-09-04 17:09:17:999][ConfigLoadManager:135] 請確認table-info.xml中是否存在 <table-config>
+[INFO][main][2017-09-04 17:09:18:127][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:09:18:446][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[ERROR][main][2017-09-04 17:09:18:446][DBMain:62] table-info.xml中找不到<table>，請檢查...
+[INFO][main][2017-09-04 17:18:25:626][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:18:25:628][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:18:25:795][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:18:26:062][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:20:31:181][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:20:31:184][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:20:31:358][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:20:31:659][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:21:40:599][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:21:40:602][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:21:40:774][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:21:41:070][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:26:01:884][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:26:01:886][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:26:02:039][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:26:02:299][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:26:18:691][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:26:18:693][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:26:18:839][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:26:19:098][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:45:07:034][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:45:07:036][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:45:07:196][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:45:07:540][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:52:40:218][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:52:40:221][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:52:40:416][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:52:40:687][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:53:04:585][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:53:04:588][ConfigLoadManager:59] -------------------------------------------------------------------------------
+[INFO][main][2017-09-04 17:53:04:738][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:53:04:974][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功
+[INFO][main][2017-09-04 17:53:42:911][ConfigLoadManager:58] Log 機制啟動成功
+[INFO][main][2017-09-04 17:53:43:077][DbUtil:71] 連接成功MySQLToJava
+[INFO][main][2017-09-04 17:53:43:302][DbUtil:81] 連線 DB connUrl: <jdbc:mysql://10.1.41.54:13306/cm> , userName: <root>, password: <syscom> 成功

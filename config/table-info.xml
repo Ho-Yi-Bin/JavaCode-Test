@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<table-config>
+ 	<tables>
+		<table id="主機" tablename="HOSTS">
+			<columns>
+				<column cid="主機名稱" type="String"  columnname="HOST_ID" />
+			</columns>
+		</table>
+	
+		<table id="叢集" tablename="CLUSTERS">
+			<columns>
+				<column cid="叢集序號" type="int" 		columnname="CONFIG_ID" />
+				<column cid="叢集名稱" type="String" 	columnname="NAME" />
+			</columns>
+		</table>
+	</tables>
+</table-config>

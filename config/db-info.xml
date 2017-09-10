@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<db-config>
+	<db-service>
+            <db-type>mysql</db-type>
+		    <connection-url>jdbc:mysql://10.1.41.54:13306/cm</connection-url>
+			<driver-class>com.mysql.jdbc.Driver</driver-class>
+			<user-name>root</user-name>
+		  	<password>syscom</password>
+	</db-service>
+</db-config>
